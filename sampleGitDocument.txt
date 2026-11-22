@@ -4,3 +4,11 @@ It can tracj changes, restore previous version ans collabration.
 It is free and open source.
 It is also used to manage the project history.
 
+
+
+
+Git: 
+It is a distributed version control system.
+It can tracj changes, restore previous version ans collabration.
+It is free and open source.
+It is also used to manage the project history.
